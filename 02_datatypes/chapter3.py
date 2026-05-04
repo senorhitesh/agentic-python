@@ -9,7 +9,6 @@ print("id of black_tea_gram:", id(black_tea_gram))
 print("id of milk_gram:", id(milk_gram))
 print("id of hitesh:", id(hitesh))
 
-# tech me data types in python
 print(type(black_tea_gram))
 print(type(milk_gram))  
 print(type(hitesh))
