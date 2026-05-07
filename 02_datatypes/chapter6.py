@@ -19,8 +19,6 @@ masala = ("cumin", "turmeric", "coriander")
 ginger_ratio, sugar_ratio = 1, 2
 print("Ginger Ratio:", ginger_ratio)
 
-
-
 # Membership 
 # The 'in' keyword is used to check if a value exists in a tuple. It returns True if the value is found, and False otherwise.
 print("John Doe in employee:", "John Doe" in employee)

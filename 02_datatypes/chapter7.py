@@ -15,12 +15,10 @@ employees.remove({"name": "John", "age": 30})
 print(employees)  # Output: [{'name': 'Jane', 'age': 25 }]
 employees.append({"name": "John", "age": 30})
 employees.reverse()
-employees.reverse()
 print(employees)  
 
 
 chai = ["chai", "chai2", "chai3", "chai4", "chai5"]
-chai.reverse()
 chai.reverse()
 print(chai)
 
