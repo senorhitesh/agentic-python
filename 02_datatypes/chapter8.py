@@ -11,6 +11,5 @@ all_set = set1 | set2  # Union of two sets
 
 intersection_set = set1.intersection(set2)  # Intersection of two sets
 print("Set 1:", set1)
-
 print(2 in set1)  # Check if an element is in the set
 print(6 in set1)  # Check if an element is in the set
