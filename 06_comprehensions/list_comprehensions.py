@@ -11,3 +11,8 @@ menu = [
 best_chai = [tea for tea in menu if menu.count(tea) == 1]
 
 print(best_chai)
+
+pets = ["cat", "elephant", "dog"]
+
+# lenghj  = {___ for name, legth in pets}
+
